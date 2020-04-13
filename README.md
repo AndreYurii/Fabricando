@@ -1,5 +1,5 @@
 # Desafio 
-O projeto foi desenvolvido com Java 8 no backend e Reactjs no
+O projeto foi desenvolvido com Java 8 no backend e Reactjs no frontend
     
     Frameworks, ferramentas e padrões de projetos utilizados no backend:
     
